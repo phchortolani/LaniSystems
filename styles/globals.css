@@ -2,8 +2,10 @@ html,
 body {
   padding: 0;
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+  font-family: 'Exo', -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
     Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+  background: linear-gradient(321deg,#4c4c4c,#333333);
+ 
 }
 
 a {
@@ -13,4 +15,16 @@ a {
 
 * {
   box-sizing: border-box;
+}
+
+.text-lani-color-1 {
+  color: #2780c2;
+}
+
+.text-lani-color-2 {
+  color: #03baa4;
+}
+
+.text-white{
+  color: white;
 }
