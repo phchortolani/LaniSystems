@@ -13,7 +13,7 @@ export default function Home() {
       </Head>
 
       <main className={styles.main}>
-        <h3 className="text-lani-color-1">
+        <h3 className="text-white">
           Site em desenvolvimento
         </h3>
         <Image src="/lani_systems2.svg" alt="Lani Systems Logo" width={400} height={400} />
