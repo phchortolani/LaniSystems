@@ -16,7 +16,7 @@ export default function Home() {
         <h3 className="text-white">
          Em breve
         </h3>
-        <Image src="/lani_systems-logoPath.svg" alt="Lani Systems Logo" width={400} height={400} />
+        <Image src="/lani_systems-logoPath.svg" alt="Lani Systems Logo" width={300} height={300} />
       </main>
 
     {/*   <footer className={styles.footer}>
