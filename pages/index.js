@@ -14,17 +14,17 @@ export default function Home() {
 
       <main className={styles.main}>
         <h3 className="text-white">
-          Site em desenvolvimento
+         Em breve
         </h3>
-        <Image src="/lani_systems2.svg" alt="Lani Systems Logo" width={400} height={400} />
+        <Image src="/lani_systems-logoPath.svg" alt="Lani Systems Logo" width={400} height={400} />
       </main>
 
-      <footer className={styles.footer}>
+    {/*   <footer className={styles.footer}>
         <span className='text-white'>
           Powered by{' '} Lani Systems
         </span>
 
-      </footer>
+      </footer> */}
     </div>
   )
 }
