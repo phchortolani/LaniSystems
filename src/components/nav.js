@@ -19,7 +19,7 @@ export default function Nav() {
 
             <div className="pos-f-t d-md-none">
 
-                <nav className="navbar navbar-dark bg-dark px-2">
+                <nav className="navbar navbar-dark bg-dark px-2 border-bottom border-2">
                     <Link href="/" >
                         <a className="navbar-brand mx-2" style={{ alignItems: "center" }} >
                             <img src="/lani-5andar2.svg" alt="Lani Systems Logo" width={130} height={35} />

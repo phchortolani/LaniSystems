@@ -7,68 +7,68 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
-   sodipodi:docname="lani-5andar1.svg"
-   id="svg8"
-   version="1.1"
-   viewBox="0 0 163.80615 22.148823"
+   width="163.80615mm"
    height="22.148823mm"
-   width="163.80615mm">
+   viewBox="0 0 163.80615 22.148823"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="lani-5andar1.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)">
   <defs
      id="defs2">
     <rect
-       id="rect2853"
-       height="18.331844"
-       width="63.311012"
+       x="29.293156"
        y="34.017857"
-       x="29.293156" />
+       width="63.311012"
+       height="18.331844"
+       id="rect2853" />
     <rect
-       id="rect12"
-       height="50.270832"
-       width="146.27679"
+       x="25.702381"
        y="52.538692"
-       x="25.702381" />
+       width="146.27679"
+       height="50.270832"
+       id="rect12" />
     <linearGradient
-       id="svg_3"
-       x1="0"
-       y1="0"
+       y2="0"
        x2="1"
-       y2="0">
+       y1="0"
+       x1="0"
+       id="svg_3">
       <stop
-         id="stop37"
+         offset="0"
+         stop-opacity="0.99609"
          stop-color="#2780c2"
-         stop-opacity="0.99609"
-         offset="0" />
+         id="stop37" />
       <stop
-         id="stop39"
-         stop-color="#03baa4"
+         offset="1"
          stop-opacity="0.99609"
-         offset="1" />
+         stop-color="#03baa4"
+         id="stop39" />
     </linearGradient>
   </defs>
   <sodipodi:namedview
-     fit-margin-bottom="0"
-     fit-margin-right="0"
-     fit-margin-left="0"
-     fit-margin-top="0"
-     inkscape:window-maximized="1"
-     inkscape:window-y="-8"
-     inkscape:window-x="-8"
-     inkscape:window-height="1027"
-     inkscape:window-width="1920"
-     showgrid="false"
-     inkscape:document-rotation="0"
-     inkscape:current-layer="layer1"
-     inkscape:document-units="mm"
-     inkscape:cy="20.561878"
-     inkscape:cx="335.94143"
-     inkscape:zoom="1.4"
-     inkscape:pageshadow="2"
-     inkscape:pageopacity="0.0"
-     borderopacity="1.0"
-     bordercolor="#666666"
+     id="base"
      pagecolor="#ffffff"
-     id="base" />
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="335.94143"
+     inkscape:cy="20.561878"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -82,35 +82,35 @@
     </rdf:RDF>
   </metadata>
   <g
-     transform="translate(-25.071408,-74.997961)"
-     id="layer1"
+     inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     inkscape:label="Layer 1">
+     id="layer1"
+     transform="translate(-25.071408,-74.997961)">
     <text
-       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:19.7556px;line-height:1.25;font-family:Exo;-inkscape-font-specification:'Exo Medium';white-space:pre;shape-inside:url(#rect12);fill:#000000;fill-opacity:1;stroke:none;"
+       xml:space="preserve"
        id="text10"
-       xml:space="preserve" />
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:19.7556px;line-height:1.25;font-family:Exo;-inkscape-font-specification:'Exo Medium';white-space:pre;shape-inside:url(#rect12);fill:#000000;fill-opacity:1;stroke:none;" />
     <text
-       id="text18"
-       y="91.795845"
-       x="50.853821"
+       xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:22.5778px;line-height:1.25;font-family:sans-serif;fill:#424242;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:22.5778px;font-family:Exo;-inkscape-font-specification:'Exo Medium';fill:#424242;fill-opacity:1;stroke-width:0.264583"
-         y="91.795845"
-         x="50.853821"
+       x="50.853821"
+       y="91.795845"
+       id="text18"><tspan
+         sodipodi:role="line"
          id="tspan16"
-         sodipodi:role="line">Lani Systems</tspan></text>
+         x="50.853821"
+         y="91.795845"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:22.5778px;font-family:Exo;-inkscape-font-specification:'Exo Medium';fill:#424242;fill-opacity:1;stroke-width:0.264583">Lani Systems</tspan></text>
     <path
-       style="fill:#176eb1;fill-opacity:0.996078"
-       stroke="#000000"
-       id="svg_8"
-       d="m 32.04933,91.660464 9.536279,-0.0018 3.5e-4,-9.535836 -3.468229,-3e-5 3.08e-4,6.068447 -6.06782,2.08e-4 -0.0012,3.468928 v 0 z m -6.977298,-6.977297 3.467418,-0.0018 2.08e-4,-6.067831 6.067459,2.06e-4 0.0012,-3.466968 -9.536908,2.08e-4 z"
+       fill="url(#svg_3)"
        stroke-width="0"
-       fill="url(#svg_3)" />
+       d="m 32.04933,91.660464 9.536279,-0.0018 3.5e-4,-9.535836 -3.468229,-3e-5 3.08e-4,6.068447 -6.06782,2.08e-4 -0.0012,3.468928 v 0 z m -6.977298,-6.977297 3.467418,-0.0018 2.08e-4,-6.067831 6.067459,2.06e-4 0.0012,-3.466968 -9.536908,2.08e-4 z"
+       id="svg_8"
+       stroke="#000000"
+       style="fill:#176eb1;fill-opacity:0.996078" />
     <text
-       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect2853);fill:#000000;fill-opacity:1;stroke:none;"
+       xml:space="preserve"
        id="text2851"
-       xml:space="preserve" />
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect2853);fill:#000000;fill-opacity:1;stroke:none;" />
   </g>
 </svg>
