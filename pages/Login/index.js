@@ -1,5 +1,5 @@
 export default function Login() {
-    return (<div className="login" style={{color:"white"}}>
+    return (<div className="login" style={{ color: "white" }}>
         <img src="/lani-5andar2.svg" className="w-100"></img>
         <hr />
         <form >
@@ -14,7 +14,7 @@ export default function Login() {
             <hr className="mt-0"></hr>
             <span className="text-center text-white">
                 Powered by{' '}
-                <a target={'_blank'} href="https://lanisystems.vercel.app"> <img src="/lani-5andar2.svg" width={150}></img></a>
+                <a href="./"> <img src="/lani-5andar2.svg" width={150}></img></a>
             </span>
         </footer>
     </div>
