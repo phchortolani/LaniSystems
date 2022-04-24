@@ -17,7 +17,7 @@ export default function Nav() {
                 </Link>
             </nav>
 
-            <div class="pos-f-t d-md-none">
+            <div className="pos-f-t d-md-none">
 
                 <nav className="navbar navbar-dark bg-dark px-2">
                     <Link href="/" >
