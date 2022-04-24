@@ -4,14 +4,13 @@ body {
   margin: 0;
   font-family: 'Exo', -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
     Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
-
-  background: linear-gradient(-70deg, #333333, #57687c, #333333, #164b74, #027063, #a8a8a8);
-  background-size: 800% 800%;
+ 
+  background: linear-gradient(-392deg, #2780c2 -87%, #333333 80%);
   height: 100vh;
+}
 
-  -webkit-animation: gradient 25s ease infinite alternate;
-  -moz-animation: gradient 25s ease infinite alternate;
-  animation: gradient 25s ease infinite alternate;
+.form-control {
+  border: #176eb1 solid 1px !important;
 }
 
 a {
@@ -37,12 +36,9 @@ a {
 
 .gradientar {
   background: linear-gradient(180deg, #ffffff, #57687c, #333333, #a8a8a8);
-
-  
-
-  -webkit-animation: gradient 25s ease infinite alternate;
+  /*   -webkit-animation: gradient 25s ease infinite alternate;
   -moz-animation: gradient 25s ease infinite alternate;
-  animation: gradient 25s ease infinite alternate;
+  animation: gradient 25s ease infinite alternate; */
 }
 
 .btn-lani-gradiente {
@@ -146,17 +142,13 @@ nav ul {
   box-shadow: 1px 1px 10px 0rem #176eb1;
 }
 
-.btn-primary{
- background-color: #176eb1  !important;
- border-color: #176eb1 !important;
+.centerlize {
+  place-content: center;
+  display: grid;
+  height: 90vh;
 }
 
-input:-internal-autofill-selected{
-  
-  background: #333333 !important;
-  color: white;
-  border: #176eb1 solid 2px;
-  outline: 0;
-  box-shadow: 1px 1px 10px 0rem #176eb1;
+.btn-primary {
+  background-color: #176eb1 !important;
+  border-color: #176eb1 !important;
 }
-
