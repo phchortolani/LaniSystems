@@ -36,14 +36,14 @@ export default function Home() {
       <Nav />
       <main className='centerlize text-white' style={{ overflow: "hidden" }}>
         <h2>{textInfoWrite}</h2>
+
       </main>
 
-      {/*   <footer className={styles.footer}>
-        <span className='text-white'>
-          Powered by{' '} Lani Systems
-        </span>
-
-      </footer> */}
+      <footer className='text-center flex flex-col gap-2'>
+        <div className='text-white'>
+          Lani Systems |  CNPJ: 46.006.437/0001-33 |  Telefones: (11) 95788-6697 | (11) 98852-0205
+        </div>
+      </footer>
     </div>
   )
 }
