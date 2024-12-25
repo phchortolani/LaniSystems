@@ -1,6 +1,6 @@
 {
   "name": "lany-systems",
-  "version": "0.1.0",
+  "version": "1.1.0",
   "private": true,
   "scripts": {
     "dev": "next dev --turbopack",
@@ -26,6 +26,6 @@
     "typescript": "^5"
   },
   "engines": {
-    "node": "18.18.2"
+    "node": ">=18.18.2"
   }
 }
