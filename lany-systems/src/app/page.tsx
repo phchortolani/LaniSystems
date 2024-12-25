@@ -1,4 +1,4 @@
-import { Book, Building2, Clock, Mail, MapPin, Phone, Shield } from 'lucide-react';
+import { Building2, Clock, Mail, MapPin, Phone } from 'lucide-react';
 import Image from 'next/image';
 import Link from 'next/link';
 const LandingPage = () => {

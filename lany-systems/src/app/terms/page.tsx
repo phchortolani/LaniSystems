@@ -51,7 +51,7 @@ const TermsOfUsePage = () => {
                         Limitação de Responsabilidade
                     </h2>
                     <p className="text-gray-400">
-                        Este site é fornecido "como está" e não garantimos que estará livre
+                        Este site é fornecido como está e não garantimos que estará livre
                         de erros, interrupções ou vulnerabilidades. Não nos responsabilizamos
                         por qualquer dano decorrente do uso ou da incapacidade de usar este
                         site.
